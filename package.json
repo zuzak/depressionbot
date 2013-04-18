@@ -1,0 +1,20 @@
+{
+  "name": "depressionbot",
+  "version": "0.4.0-dev",
+  "scripts": {
+      "start": "node run.js"
+  },
+  "private": true,
+  "bugs": {
+      "url": "https://github.com/reality/depressionbot/issues"
+  },
+  "license" : "MIT",
+  "dependencies": {
+      "underscore": "*",
+      "request": "*",
+      "sandbox": "*",
+      "express": "*",
+      "moment": "*",
+      "jade": "0.25",
+  } 
+}
