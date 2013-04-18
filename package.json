@@ -15,6 +15,6 @@
       "sandbox": "*",
       "express": "*",
       "moment": "*",
-      "jade": "0.25",
+      "jade": "0.25"
   } 
 }
