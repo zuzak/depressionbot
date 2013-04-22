@@ -6,4 +6,4 @@
 	url = git://github.com/zuzak/dbot-github.git
 [submodule "modules/stats"]
 	path = modules/stats
-	url = git@github.com:SamStudio8/dbot-stats.git
+	url = git://github.com/SamStudio8/dbot-stats
